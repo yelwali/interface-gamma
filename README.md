@@ -70,8 +70,8 @@ La conclusion récapitule les performances obtenues, les leçons tirées de l’
 
 ## 📎 Annexes
 
-- ANNEXE A : Détails techniques supplémentaires  
-- ANNEXE B : Références, sources, ou code complémentaire
+- ANNEXE A :la théorie des modèles utilisées  
+- ANNEXE B : la déstribution des variables pour vérifier est ce que normalisé ou pas
 
 ---
 
@@ -81,3 +81,8 @@ La conclusion récapitule les performances obtenues, les leçons tirées de l’
 ```bash
 git clone https://github.com/yelwali/classification-gamma-telescope.git
 cd classification-gamma-telescope
+
+## 🧩 Installer les dépendances :
+pip install -r requirements.txt
+## 🧩 Lancer le projet
+python app.py
